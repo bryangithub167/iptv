@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",香港開電視
+#EXTINF:-1,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線新聞台
+#EXTINF:-1,有線新聞台
 http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線財經資訊台
+#EXTINF:-1,有線財經資訊台
 http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線綜合娛樂台
+#EXTINF:-1,有線綜合娛樂台
 http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線賽事直擊
+#EXTINF:-1,有線賽事直擊
 http://livetv.dnsfor.me:80/channel.13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線體育1
+#EXTINF:-1,有線體育1
 http://sl.tmtv.me/20201226/ubtl.php?cid=401
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線體育2
+#EXTINF:-1,有線體育2
 http://sl.tmtv.me/20201226/ubtl.php?cid=356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",NOW新聞
+#EXTINF:-1,NOW新聞
 http://sl.tmtv.me/20201226/ubtl.php?cid=398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",Now直播331台
+#EXTINF:-1,Now直播331台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",Now直播332台
+#EXTINF:-1,Now直播332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",Now Sports Prime
+#EXTINF:-1,Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",Now爆谷台
+#EXTINF:-1,Now爆谷台
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",ViuTV
+#EXTINF:-1,ViuTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",ViuTV6
+#EXTINF:-1,ViuTV6
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",RTHK31
+#EXTINF:-1,RTHK31
 http://livetv.dnsfor.me/channel.1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",RTHK新聞直播
+#EXTINF:-1,RTHK新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",無綫新聞台
+#EXTINF:-1,無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",無綫財經資訊台
+#EXTINF:-1,無綫財經資訊台
 http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",翡翠台
+#EXTINF:-1,翡翠台
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",J2
+#EXTINF:-1,J2
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",無綫明珠台
+#EXTINF:-1,無綫明珠台
 http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",有線電影
+#EXTINF:-1,有線電影
 http://sl.tmtv.me/20201226/ubtl.php?cid=354
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",NBA TV
+#EXTINF:-1,NBA TV
 http://sl.tmtv.me/20201226/ubtl.php?cid=1185?
