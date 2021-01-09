@@ -35,10 +35,16 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://96.45.185.192/tv.php?vid=wxcjzx
 #EXTINF:-1,翡翠台
 http://61.238.6.49:8000/bysid/1
+#EXTINF:-1,TVB華麗台
+http://sl.tmtv.me/20201226/ubtl.php?cid=1084
+#EXTINF:-1,TVB星河台
+http://sl.tmtv.me/20201226/ubtl.php?cid=1079
 #EXTINF:-1,J2
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1,無綫明珠台
 http://61.238.6.49:8001/bysid/2
+#EXTINF:-1,TVB經典台
+http://sl.tmtv.me/20201226/ubtl.php?cid=1083
 #EXTINF:-1,有線電影
 http://sl.tmtv.me/20201226/ubtl.php?cid=354
 #EXTINF:-1,ATV_LOW
@@ -47,5 +53,15 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1,ATV_720
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+#EXTINF:-1,Now爆谷台
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
+#EXTINF:-1,粵語殘片
+http://sl.tmtv.me/20201226/ubtl.php?cid=152
+#EXTINF:-1,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1, National Geographic HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3020
+#EXTINF:-1,Disney Channel HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3046
 #EXTINF:-1,NBA TV
 http://sl.tmtv.me/20201226/ubtl.php?cid=1185?
